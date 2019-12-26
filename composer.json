@@ -1,0 +1,24 @@
+{
+    "name": "zhan3333/tencent",
+    "description": "tencent cloud api",
+    "authors": [
+        {
+            "name": "zhan",
+            "email": "grianchan@gmail.com"
+        }
+    ],
+    "require": {
+        "tencentcloud/tencentcloud-sdk-php": "^3.0.94",
+        "illuminate/support": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zhan3333\\Tencent\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zhan3333\\Tencent\\Test": "tests/"
+        }
+    }
+}

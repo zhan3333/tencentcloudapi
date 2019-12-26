@@ -1,5 +1,9 @@
 # 腾讯云api Laravel 版本
 
+## 安装
+
+`composer require zhan3333/tencentcloudapi`
+
 ## 配置
 
 `.env`配置
